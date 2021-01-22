@@ -1,4 +1,4 @@
-# Desafio Key cash
+# Desafio KeyCash
 Esse projeto consiste em realizar o desafio de estágio de Ciencia de Dados da empresa Keycash, onde o objetivo do desafio consiste em criar um modelo de precificação de imoveis dado um dataset disponibilizado.
 
 Para utilizar o modelo sem precisar executar o notebook toda vez, foi criado uma API que realiza o deploy do modelo localmente, onde basta seguir os seguintes passos para a utilização da mesma.
